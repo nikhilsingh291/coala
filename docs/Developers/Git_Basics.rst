@@ -117,6 +117,7 @@ Now you can add your files/folders to the current commit:
     $ git add <file/folder_name>
 
 Do this until you have added all the files needed for your commit.
+Avoid adding all the files by using -A or -all option.
 Then type:
 
 ::
